@@ -1,0 +1,58 @@
+[
+  {
+    "series_number": "Series Number"
+  },
+  {
+    "series_number": "26.01",
+    "project": "Library",
+    "series_title": "Bookmobile",
+    "description": "At Capdau School. Series photographs show: Negatives 2 & 3--\r\nAgnes Bulmer (9), 2626 Gladiolus St.; Anel Betty Scheaffer (7), 2621 Jonquil St.; John Joseph Landry, Jr.\r\n(10), 2561 Gladiolus St.; Constance R. Mire (12), 2428 Jasmine St.; Negative 8--Lester Murray (14), 4005\r\nVelie St.; Edward Gatzman (12), 3918 Velie St.; Negative 9-- June Brockett (12), 2638 Lavender\r\nSt.",
+    "date_taken": "9/12/1940",
+    "project_dates": "",
+    "OP": "",
+    "negatives": "6",
+    "contact_prints": "1",
+    "8x10_prints": "",
+    "digital_photos": [
+      "http://nutrias.org/~nopl/photos/wpa/images/26/260101.jpg",
+      "http://nutrias.org/~nopl/photos/wpa/images/26/260102.jpg",
+      "http://nutrias.org/~nopl/photos/wpa/images/26/260103.jpg",
+      "http://nutrias.org/~nopl/photos/wpa/images/26/260104.jpg",
+      "http://nutrias.org/~nopl/photos/wpa/images/26/260106.jpg"
+    ]
+  },
+  {
+    "series_number": "26.02",
+    "project": "Library",
+    "series_title": "Bookmobile",
+    "description": "The Louisiana Library Commission sponsors the operation of a\r\nbookmobile manned by WPA workers to furnish books to New Orleans children.",
+    "date_taken": "1/29/1941",
+    "project_dates": "",
+    "OP": "",
+    "negatives": "4",
+    "contact_prints": "0",
+    "8x10_prints": "",
+    "digital_photos": [
+      "http://nutrias.org/~nopl/photos/wpa/images/26/260202.jpg",
+      "http://nutrias.org/~nopl/photos/wpa/images/26/260203.jpg",
+      "http://nutrias.org/~nopl/photos/wpa/images/26/260204.jpg"
+    ]
+  },
+  {
+    "series_number": "26.03",
+    "project": "Library",
+    "series_title": "Talking Books",
+    "description": "At the Canal branch, New Orleans Public Library. Blind persons who are\r\nunable to read embossed type need no longer be deprived of education and entertainment because the\r\nLibrary, with the aid of the WPA, has made talking books available to all blind persons in Louisiana.\r\nInterior.",
+    "date_taken": "3/15/1940",
+    "project_dates": "",
+    "OP": "665-64-3-75",
+    "negatives": "6",
+    "contact_prints": "1",
+    "8x10_prints": "",
+    "digital_photos": [
+      "http://nutrias.org/~nopl/photos/wpa/images/26/260301.jpg",
+      "http://nutrias.org/~nopl/photos/wpa/images/26/260304.jpg",
+      "http://nutrias.org/~nopl/photos/wpa/images/26/260305.jpg"
+    ]
+  }
+]
