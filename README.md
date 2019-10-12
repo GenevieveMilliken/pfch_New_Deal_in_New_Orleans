@@ -5,13 +5,13 @@ This collection of Python scripts were written for a final project in the course
 
 ## About 
 
-(1) Yale's Photogrammar 
+(1) [Yale's Photogrammar](http://photogrammar.yale.edu/search/results.php?start=0&search=%22New+Orleans%22&pname=&lot=&van=&state=&county=&city=&year_start=1935&month_start=0&year_stop=1945&month_stop=12)
 
 Running FSA_Photo_1_JSON_Write.py creates a JSON file that includes metadata information as well as image URLs.
 
 Running FSA_Photo_2_Download.py reads the image URLs from the JSON file created by the first script and downloads them to a local folder named FSA_Images. You will need to create this folder in your local directory before running script 2 and download. 
 
-(2) New Orleans Public Library's WPA Collection 
+(2) [New Orleans Public Library's WPA Collection](http://nutrias.org/photos/wpa/wpaphotos.htm) 
 
  Running WPA_COLLECTION NAME_1_JSON_Write.py creates a JSON file that includes metadata information as well as image URLs. 
 
@@ -19,13 +19,13 @@ Running FSA_Photo_2_Download.py reads the image URLs from the JSON file created 
 
  Scripts are available for the following WPA collections:
  
- - Education
- - Drainage
- - Recreation
- - Lakefront
- - Library
- - Music
- - Public Health
+ - [Education](http://nutrias.org/photos/wpa/wpa17.htm)
+ - [Drainage](http://nutrias.org/photos/wpa/wpa15.htm)
+ - [Recreation](http://nutrias.org/photos/wpa/wpa36.htm)
+ - [Lakefront](http://nutrias.org/photos/wpa/wpa24.htm)
+ - [Library](http://nutrias.org/photos/wpa/wpa26.htm)
+ - [Music](http://nutrias.org/photos/wpa/wpa30.htm)
+ - [Public Health](http://nutrias.org/photos/wpa/wpa35.htm)
 
  If you have any questions, feel free to reach out at genevieve [dot] milliken [at] gmail [dot] com
 
